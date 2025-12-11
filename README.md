@@ -1,5 +1,6 @@
 # Investment-Survey.pptx
 Investment_Survey project description & summary
+![Invest Age by Profession](
 1)	Open the InvestmentSurveyWork1 PowerBI file first as proof that the raw csv file InvestmentSurvey database was pushed through in Azure Cloud to the final stage of being in a DataMart folder called GoldSpecialized.
 a.	InvestmentSurveyWork1 – is a PowerBI file that cannot be used since the Azure Cloud account was closed down.  
 b.	Report View (Left-side pane), go to right-side pane (Data), and this shows the table “goldspecialized”.  Click on the downside arrow to see the columns listed in this table.
