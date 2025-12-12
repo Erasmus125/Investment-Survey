@@ -2,6 +2,7 @@
 Investment_Survey project description & summary
 
 ![image alt](https://github.com/Erasmus125/Investment-Survey/blob/988a2c10b73a7b8d63fcaf0457fe11d9ea9bf102/ExcelImages/InvestProfGender.jpg)
+
 <img src="https://github.com/Erasmus125/Investment-Survey/blob/988a2c10b73a7b8d63fcaf0457fe11d9ea9bf102/ExcelImages/InvestProfGender.jpg" width="100" height="100">
 
 1)	Open the InvestmentSurveyWork1 PowerBI file first as proof that the raw csv file InvestmentSurvey database was pushed through in Azure Cloud to the final stage of being in a DataMart folder called GoldSpecialized.
