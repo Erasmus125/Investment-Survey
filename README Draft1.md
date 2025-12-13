@@ -6,7 +6,7 @@ Investors play a crucial role in the economy by facilitating wealth creation, fu
 (adapted from why are investors important - Search: https://www.bing.com/search?q=why+are+investors+important&form=ANNTH1&refig=693c67466d5f49a9a7124e4d56428715&pc=LCTS&pq=why+are+invest&pqlth=14&assgl=27&sgcn=why+are+investors+important&qs=UT&sgtpv=UT&smvpcn=0&swbcn=10&sctcn=0&sc=10-14&sp=2&ghc=0&cvid=693c67466d5f49a9a7124e4d56428715&clckatsg=1&hsmssg=0
 This project is a data-driven analysis that uses multiple tools to explore the motivations that impel people to invest, how they invest and on what they invest.
 
-###	What is the project about?
+###	 1) What is the project about?
 In this project (the end-part of another assignment to learn about Cloud Azure) I explore and analyze the results of a survey done on a 100 people about their investment practices.
 About the DataSet.
 The data was taken from Kaggle:  https://www.kaggle.com/datasets/sudarsan27/investment-survey-dataset
