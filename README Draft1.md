@@ -19,6 +19,7 @@ Furthermore, for money variables, the currency is taken to be in American dollar
 
 There were 10 variables in this dataset, and the number of respondents was 100.
 |Variable|Categories (before recoding)|
-|----------|------------|
-|Gender    |Male, Female|
+|-----------------------------------------|-----------------------------------------------------|
+|Gender                                   |Male, Female                                         |
+|Age                                   |Range:  18 years -56 years                                       |
 
