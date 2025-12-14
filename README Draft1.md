@@ -88,12 +88,12 @@ I first created the measure, and then the label.
 
 **Charts:  Differences between Genders in Investment**
 <details open>
-<summary><strong>Click to hide
+<summary><strong>Click to hide</summary></strong>
  
 <img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" /> <br>
 <img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
 
-</summary></strong>
+</details>
 
 <div align ="center">
  
