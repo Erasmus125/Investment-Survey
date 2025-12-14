@@ -55,7 +55,11 @@ Women are more likely to be motivated by family to invest, whereas men are more 
  ### Power BI for an exploration of Gender differences.
 
  </div>
-The following Power BI dashboard can be used to explore differences by other variables as well, but I shall focus on the differences between the genders when it comes to investment practices.
+
+The following
+[PowerBI dashboard](https://github.com/Erasmus125/Investment-Survey/blob/8bb57ea4c2294b5049189cd8411b4b42153eeec2/InvestmentSurveycsv.pbix) 
+
+can be used to explore differences by other variables as well, but I shall focus on the differences between the genders when it comes to investment practices.
 Link to PowerBI
 But I’m only giving differences between genders here.
 In PowerBI, I categorized the following variables for ease of understanding.
