@@ -31,3 +31,21 @@ Motivation_cause                       |Family member, Social media/ Articles, A
 |Goal for investment                   |Family member, Social media/ Articles, Agents/Investment brokers, Self Interest , No one, Friends, Self, Through Bank, Self motivation , Self , Schemes|
 |Duration_to_save (in_Years)            |0 years – 25 years.|
 
+### Technology used.
+•	Power BI to clean and transform data, analyze gender differences and create an interactive dashboard.
+•	Excel to analyze to clean and transform data, analyze differences between the dichotomizedWorking/Professional variable and create an interactive dashboard.
+•	SQL queries to get means.
+•	Jupyter and Colab Python – further exploration.
+
+### 2)	Why this project matters
+The goal was to inform media and investment companies on how to effectively target potential investors based on demographics such as gender and employment status AND to understand what drives people to invest.
+### 3)	Major findings.
+Major findings of this project included that women are more cautious investors than men:  women are significantly more likely than men to invest in stable institutions such as banks and in precious materials such as gold.  This should help financial institutions market their portfolios accordingly.  There are also significant differences on what pushes men and women to invest:  personal savings being a primary incentive for women, and wealth generation for men.
+
+Women are more likely to be motivated by family to invest, whereas men are more likely to be motivated by social media and friends.  Family is a major source of investment advice for both men and women, but men are significantly more likely than women to use mobile applications and news articles or current affairs as resources for investment.  These findings can guide financial institutions on how to reach out to potential investors.
+### Power BI for an exploration of Gender differences.
+The Power BI can be used to explore differences by other variables as well:  
+Link to PowerBI
+But I’m only giving differences between genders here.
+In PowerBI, I categorized the following variables for ease of understanding.
+I first created the measure, and then the label.
