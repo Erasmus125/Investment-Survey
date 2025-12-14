@@ -54,7 +54,7 @@ I first created the measure, and then the label.
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/e5e9a60f-9960-49f0-ad6a-ca555f56a03b" />
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" /> 
 <br/><br/>
-p<align ="center">
+<p align ="center">
 ### By Gender
 </p>
 
