@@ -59,12 +59,21 @@ I first created the measure, and then the label.
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" /> 
 <br/><br/>
 <div align ="center">
+ 
 ### **By Gender**
+
 </div>
 
 <img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" /> <br>
 <img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
 
+<div align ="center">
+ 
+### **Gender differences in Investment**
+
+</div>
+
+<img width="899" height="629" alt="image" src="https://github.com/user-attachments/assets/23ab716a-cbf8-434a-9b4f-92485edcbd96" />
 
 
 
