@@ -14,6 +14,7 @@ This project is a data-driven analysis that uses multiple tools to explore the m
 In this project (the end-part of another assignment to learn about Cloud Azure) I explore and analyze the results of a survey done on a 100 people about their investment practices.
 ### About the DataSet.
 The [original Investment Survey data](https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv) 
+The [original Investment Survey data](https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv)
 
 (https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv) was taken from Kaggle:  https://www.kaggle.com/datasets/sudarsan27/investment-survey-dataset
 [](url)
