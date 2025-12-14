@@ -98,6 +98,13 @@ I first created the measure, and then the label.
 <br>
 <img width="1030" height="682" alt="image" src="https://github.com/user-attachments/assets/f6191d83-6237-4c28-9ed5-9b19ef20c0aa" />
 
+<details>
+  <summary><strong>Click to expand</strong></summary>
+
+  Content goes here.
+  You can include text, lists, code blocks, images, etc.
+
+</details>
 
 
 
