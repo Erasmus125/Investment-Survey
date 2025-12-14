@@ -58,7 +58,12 @@ Q3: 35-42 years
 Q4: 43-60 years.|
 
 <img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
-<img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/83ff0762-c29a-410e-9193-7a3bb13b87aa" />
-<img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/2d2143b2-5ef4-422f-95f3-0ba196884803" />
+<img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/e5e9a60f-9960-49f0-ad6a-ca555f56a03b" />
+<img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" />
+
+<img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" />
+<img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
+
+
 
 
