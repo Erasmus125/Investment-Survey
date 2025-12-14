@@ -48,13 +48,13 @@ Motivation_cause                       |Family member, Social media/ Articles, A
 
 </details>
 
-### Technology used.
+  ### **Technology used.**
   * Power BI to clean and transform data, analyze gender differences and create an interactive dashboard.
   * Excel to analyze to clean and transform data, analyze differences between the dichotomizedWorking/Professional variable and create an interactive dashboard.
   * SQL queries to get means.
   * Jupyter and Colab Python – further exploration.
 
-### 2)	Why this project matters
+### **2)	Why this project matters**
 The goal was to inform media and investment companies on how to effectively target potential investors based on demographics such as gender and employment status AND to understand what drives people to invest.
 
 ### 3)	Major findings.
