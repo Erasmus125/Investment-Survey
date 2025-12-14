@@ -1,6 +1,6 @@
 <div align = "center">
  
- # Investment-Survey
+ # Investment Survey
 
  </div>
 Investment_Survey project description & summary
