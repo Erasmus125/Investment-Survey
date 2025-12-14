@@ -1,4 +1,8 @@
-# Investment-Survey
+<div align = "center">
+ 
+ # Investment-Survey
+
+ </div>
 Investment_Survey project description & summary
 
 <img src="https://github.com/Erasmus125/Investment-Survey/blob/787cddf7d039395f21cc57efc066a4a08a86acdc/Images%20ReadMe/HeaderImage.jpg" width="1000" height="500">
@@ -63,11 +67,6 @@ I first created the measure, and then the label.
 <img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" /> <br>
 <img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
 
-<div align="center">
-
-## **By Gender**
-
-</div>
 
 
 
