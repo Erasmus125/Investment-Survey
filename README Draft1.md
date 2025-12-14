@@ -4,8 +4,7 @@
 
  </div>
  <br>
- 
- <div aligh = "center">
+ <div align = "center">
   
 ## Investment_Survey project description & summary
 
