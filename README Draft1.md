@@ -165,11 +165,55 @@ I will use SQL to combine the variables of Gender and Employment to look more cl
 
 #### **Methodology**<br>
 
-The [Investment Survey csv file] (C:\Users\asemg\Documents\Software Learning\Nexxvali DA Portal\Project Oct Nov 2025\2nd Project\Investment SQL\InvestSurveySQL.xlsx) was uploaded to SQL .  
+The [Investment Survey file](https://github.com/Erasmus125/Investment-Survey/blob/070970373037863ba0b54a5eab106fe8c93a42d0/InvestSurveySQL.xlsx) was uploaded to SQL .  
 
 The only changes made, prior to uploading to SQL, was that four “Nill” values affecting three records of the one hundred records were converted to 0.  
 
 While uploading to MySQL Workbench 8.0 CE, variables such as Age, Annual Income, Investment_per_month and Duration_to_save were converted from Text format to Number format.
 The following variables were renamed, and the following variables categorized.
+
+#### **Table 5:  SQL Coding**
+<details>
+<summary><strong>Click to hide</strong></summary>
+ 
+<img width="884" height="565" alt="image" src="https://github.com/user-attachments/assets/409fbcc2-d97b-4a19-90f9-5e01b20b7bbe" />
+<img width="884" height="112" alt="image" src="https://github.com/user-attachments/assets/7615fb3a-d09c-4b7d-8e81-35174ab24ae3" />
+<img width="888" height="397" alt="image" src="https://github.com/user-attachments/assets/f5d93473-8f63-4d5d-87ba-72decdd29307" />
+
+</details><br>
+
+Since the focus was on selected values within a variable, the number of respondents were very small, ranging from 12 to 48.  The totals would sometimes add up to just over 100% due to rounding-off.
+#### **Investment Goal**
+**Personal Savings** (n=26):  Irrespective of gender, 70 % of those not-working compared to 31% (rounding off error) of those working had personal savings as their invest goal.
+**Wealth Generation** (n=28):  Working males (46%) and non-working males (21%) were far more likely than females to have wealth generation as their goal.
+#### **Investment Mode**
+**Stocks** (n=29):  In this group, stock investors were overwhelmingly male with 48% working and 41% not working.
+23 of the 26 respondents who invested in **mutual funds** were working people of both genders.
+**Banking** (n=23):  69% (16) of those who invested in banks were not working compared to the remaining 31% (7) who were not-working.
+#### **Motivation**
+**Family members**(n=24):  Females were far more likely (80%), irrespective of working status to be motivated by family members to invest compared to 21% of male respondents.  
+However, when it came to motivated by **friends**, 21 of the 24 respondents were males.  
+Of the 18 who said they used **Social media/Articles**, 15 were males. 
+#### **Resources Used**
+**Family members/Friends** (n=48) were a resource used for investments almost equally by both genders: 50% of males (29% working vs. 21% not working) compared to 50% of females (equally divided between working and not working).  
+Of the 12 respondents who used **News articles /Current affairs** as an investment resource, all were males.<br>
+
+<div align ="center">
+ 
+## **What I learned.**
+
+</div>
+I learned about GitHub in the process, how to navigate within it on a very elementary level.  I was very proud of being able to rename my file, create branches, add and delete files. 
+
+I also found out what a data scientist’s portfolio should look like.  In my ignorance, I thought, all I have to do is shove my project there somehow, and, since it’s all about coding, people will look at the code for proof that I know something.  Now I can navigate on a very basic level in Git Hub and I know what a ReadMe is about and what it can do.
+
+Thanks to GitHub ReadMe, I was introduced to HTML and Markup Language – something I had never done before.
+
+**Major Challenges.**  
+o	Creating measures I needed in Power BI using DAX within time constraints.  Not used to using PowerBI to create categories.<br>
+o	Getting the following pop-up in PowerBI **everytime** I clicked anywhere on PowerBI, so my work was doubled.
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5ea8823f-bde5-4bbc-b224-69f73d2c236b" /><br>
+o	Losing all my Excel work for SQL and having to start all over again.  But I was thankful I’d commented on my work in SQL, because that make things a LOT easier.
+
 
 
