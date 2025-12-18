@@ -149,8 +149,27 @@ Recodes were done using a mixture of Nested IF, IFS.
   Content goes here.
   You can include text, lists, code blocks, images, etc.
 
-</details>
+</details><br>
 
+<div align = "center">
 
+###**SQL Exploration of Selected Variables and Values by Employment and Gender**<br>
+
+</div>
+
+The previous analysis of Investment practices by Gender and by Work/Professional status indicated a further exploration of certain values might be worthwhile.
+
+We looked at the influence of Gender alone and Working/Professional status alone, although both dashboard in PowerBI and Excel allow us to drill down further.
+
+I will use SQL to combine the variables of Gender and Employment to look more closely on how Gender and Employment status combined influence selected values in certain variables.  The values selected were influenced by major differences between the genders or major differences between the working and not-working showing up in the visuals. 
+
+####**Methodology**<br>
+
+The [Investment Survey csv file[("C:\Users\asemg\Documents\Software Learning\Nexxvali DA Portal\Project Oct Nov 2025\2nd Project\Investment SQL\InvestSurveySQL.xlsx") was uploaded to SQL .  
+
+The only changes made, prior to uploading to SQL, was that four “Nill” values affecting three records of the one hundred records were converted to 0.  
+
+While uploading to MySQL Workbench 8.0 CE, variables such as Age, Annual Income, Investment_per_month and Duration_to_save were converted from Text format to Number format.
+The following variables were renamed, and the following variables categorized.
 
 
