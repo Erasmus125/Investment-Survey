@@ -153,7 +153,7 @@ Recodes were done using a mixture of Nested IF, IFS.
 
 <div align = "center">
 
-###**SQL Exploration of Selected Variables and Values by Employment and Gender**<br>
+### **SQL Exploration of Selected Variables and Values by Employment and Gender**<br>
 
 </div>
 
@@ -163,9 +163,9 @@ We looked at the influence of Gender alone and Working/Professional status alone
 
 I will use SQL to combine the variables of Gender and Employment to look more closely on how Gender and Employment status combined influence selected values in certain variables.  The values selected were influenced by major differences between the genders or major differences between the working and not-working showing up in the visuals. 
 
-####**Methodology**<br>
+#### **Methodology**<br>
 
-The [Investment Survey csv file[("C:\Users\asemg\Documents\Software Learning\Nexxvali DA Portal\Project Oct Nov 2025\2nd Project\Investment SQL\InvestSurveySQL.xlsx") was uploaded to SQL .  
+The [Investment Survey csv file] (C:\Users\asemg\Documents\Software Learning\Nexxvali DA Portal\Project Oct Nov 2025\2nd Project\Investment SQL\InvestSurveySQL.xlsx) was uploaded to SQL .  
 
 The only changes made, prior to uploading to SQL, was that four “Nill” values affecting three records of the one hundred records were converted to 0.  
 
